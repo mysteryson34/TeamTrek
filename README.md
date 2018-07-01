@@ -25,3 +25,8 @@ There are two main modes of gameplay/simulation involved.
 **Team dynamics**
 
 All gameplay/simulation is team-based (and team-building!), and the even bigger goal is to have multiple teams that can eventually interact/cooperate/duel.
+
+**Physical computing & interactive hardware**
+
+ - Short-term goal: functionality with barebones hardware.
+ - Long-term goal: functionality with full design implementation.
