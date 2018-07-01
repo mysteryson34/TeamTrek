@@ -7,5 +7,11 @@ Preliminary testing equipment/materials:
  - at least one PC/laptop (x86_64, not armhf) with dual-band wireless capability
 
 **Modular approach**:
-Each player is tied to their SBC (single-board computer). In this case, their Raspberry Pi. Each Raspberry Pi is tied to its player's role/job in the simulator. For our current testing purposes, we will limit the number of players, and thus roles, to 3.
+Each player is tied to their SBC (single-board computer). In this case, their Raspberry Pi. Each Raspberry Pi is tied to its player's role/job in the simulator. For our current testing purposes, we will limit the number of players, and thus roles, to 3. By limiting the number of players, we increase the workload for each of them. Below are the three jobs and a sub-hiearchy of their duties.
+
+Command - Communications, Helm, Operations
+
+Science - Engineering, Cartography, Sensors
+
+Tactical - Medical, Stealth, Weaponry
 
