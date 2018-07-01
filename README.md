@@ -15,3 +15,9 @@ Each player is tied to their SBC (single-board computer). In this case, their Ra
 
  - Tactical - Medical, Stealth, Weaponry
 
+
+**Styles of gameplay**
+There are two main modes of gameplay/simulation involved.
+
+ - Bridge/Cockpit simulation
+ - "Away Team" mission
