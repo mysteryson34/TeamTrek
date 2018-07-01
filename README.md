@@ -6,5 +6,6 @@ Preliminary testing equipment/materials:
  - (3-5) EW-7822ULC/UTC USB ethernet adapters
  - at least one PC/laptop (x86_64, not armhf) with dual-band wireless capability
 
-**Modular approach**
-Each player is tied to their SBC (single-board computer). In this case, their Raspberry Pi. Each Raspberry Pi is tied to its player's role/job in the simulator.
+**Modular approach**:
+Each player is tied to their SBC (single-board computer). In this case, their Raspberry Pi. Each Raspberry Pi is tied to its player's role/job in the simulator. For our current testing purposes, we will limit the number of players, and thus roles, to 3.
+
