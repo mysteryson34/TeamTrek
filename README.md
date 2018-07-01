@@ -30,3 +30,6 @@ All gameplay/simulation is team-based (and team-building!), and the even bigger 
 
  - Short-term goal: functionality with barebones hardware.
  - Long-term goal: functionality with full design implementation.
+
+
+Ideally, the game can be distributed as images that can be flashed to the microSD cards that run the OS on the Raspberry Pi.
