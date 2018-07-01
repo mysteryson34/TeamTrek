@@ -23,4 +23,5 @@ There are two main modes of gameplay/simulation involved.
  - "Away Team" mission
 
 **Team dynamics**
+
 All gameplay/simulation is team-based (and team-building!), and the even bigger goal is to have multiple teams that can eventually interact/cooperate/duel.
