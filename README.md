@@ -7,3 +7,4 @@ Preliminary testing equipment/materials:
  - at least one PC/laptop (x86_64, not armhf) with dual-band wireless capability
  
 **Concept 1: a modular approach**
+Each player is tied to a SBC (single-board computer). In this scenario, a Raspberry Pi. Each invididualy player's SBC is tied to their role/job in the game.
